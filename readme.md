@@ -8,3 +8,11 @@ Install
 ```sh
 go get github.com/dariubs/null
 ```
+
+Types
+-----
+
+- Bool
+- String
+- Float64
+- Int64
